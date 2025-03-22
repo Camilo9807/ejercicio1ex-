@@ -10,4 +10,4 @@ Funcionamiento de este proyecto
 - lo primero es clonar desde el repositorio este proyecto a tu PC
 - Abrirlo en tu Visual code
 - desde la terminal del visual code  ejecute el siguiente comando (python main.py)
-- Despues sigue los pasos que este mismo te dara donde tendras que poner 3 nombres y 3 notas diferentes y automaticamente te crea un archivo de excel y evidenciaras la creacion de este archivo en excel (RECUERDA VISUAL NO ABRE ARCHIVOS DE EXCEL)
+- Despues sigue los pasos que este mismo te dara donde tendras que poner 3 nombres y 3 notas diferentes y automaticamente te crea un archivo de excel y evidenciaras la creacion de este archivo en excel (RECUERDA VISUAL NO ABRE ARCHIVOS DE EXCEL), Tendras que irte a los archivos y abrirlo desde alli.  
